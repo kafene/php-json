@@ -7,5 +7,8 @@
         "psr-4": {
             "Kafene\\Json\\": "src/"
         }
+    },
+    "require": {
+        "php": ">=8.0.0"
     }
 }
