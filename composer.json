@@ -1,0 +1,11 @@
+{
+    "name": "kafene/php-json",
+    "description": "PHP JSON encode/decode helper",
+    "type": "library",
+    "license": "MPL-2.0",
+    "autoload": {
+        "psr-4": {
+            "Kafene\\Json\\": "src/"
+        }
+    }
+}
